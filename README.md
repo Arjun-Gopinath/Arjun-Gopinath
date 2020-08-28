@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning ... Flutter, Vue, Ionic, Ruby on Rails
 - 👯 I’m looking to collaborate on ... React, Python
 - 🤔 I’m looking for help with ... Vue, Ruby on Rails
-- 📫 How to reach me: ...[Mail Me](arjungopinath06@gmail.com)
+- 📫 How to reach me: ...arjungopinath06@gmail.com
 

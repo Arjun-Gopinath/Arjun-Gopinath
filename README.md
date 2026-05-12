@@ -1,4 +1,8 @@
+![Profile views](https://komarev.com/ghpvc/?username=Arjun-Gopinath&color=0e75b6&style=flat)
+
 # Hi, I'm Arjun 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=500&lines=Full+Stack+Engineer)](https://git.io/typing-svg)
 
 Frontend-focused Full Stack Engineer with 4+ years building scalable products across **fintech** and **healthcare**. I specialise in React + TypeScript and love turning complex data into clean, usable interfaces.
 
@@ -33,14 +37,32 @@ Frontend-focused Full Stack Engineer with 4+ years building scalable products ac
 
 ---
 
+## 🏅 Certifications
+
+| Certificate                                                                                                          | Issuer                                     | Courses                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Meta Front-End Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/ZWZ6OV9XACCA) | Meta · Professional Certificate · Sep 2024 | Introduction to Frontend Development · Programming with JavaScript · Version Control · HTML and CSS in Depth · React Basics · Advanced React · Principles of UI/UX Design · Frontend Developer Capstone · Coding Interview Preparation |
+
+---
+
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [Captain's Wheel](https://aaryyn.itch.io/chaotic) | Casino-themed browser game built with Phaser 3 — spin the wheel, match the suit, beat the house |
-| Financial Reporting Platform | Cross-exchange dashboard tracking balances, P&L, and fees with automated daily reports |
-| AI Chatbot for Healthcare | Clinical admin chatbot using FastAPI + Temporal Workflows for real-time database-driven responses |
-| EMS Code Migration | Migrated a legacy Angular 1.x EMR to a modular React Micro Frontend architecture |
+| Project                                           | Description                                                                                       |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Captain's Wheel](https://aaryyn.itch.io/chaotic) | Casino-themed browser game built with Phaser 3 — spin the wheel, match the suit, beat the house   |
+| Financial Reporting Platform                      | Cross-exchange dashboard tracking balances, P&L, and fees with automated daily reports            |
+| AI Chatbot for Healthcare                         | Clinical admin chatbot using FastAPI + Temporal Workflows for real-time database-driven responses |
+| EMS Code Migration                                | Migrated a legacy Angular 1.x EMR to a modular React Micro Frontend architecture                  |
+
+---
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg" />
+  <img alt="Contribution snake animation" src="dist/snake.svg" />
+</picture>
 
 ---
 
